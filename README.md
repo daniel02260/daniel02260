@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">💻Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras.</p>
+<p align="center">💻 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras.</p>
 
 ###
 
@@ -33,14 +33,6 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel02260/daniel02260/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel02260/daniel02260/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daniel02260/daniel02260/pacman-output/breakout-contribution-graph.svg">
-</picture>
 
 ###
 
