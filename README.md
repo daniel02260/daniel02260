@@ -36,18 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/daniel02260/daniel02260/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel02260/daniel02260/pacman-output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel02260/daniel02260/pacman-output/breakout-contribution-graph.svg">
